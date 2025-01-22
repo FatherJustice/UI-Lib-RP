@@ -1,7 +1,7 @@
 -- New example script written by wally
 -- You can suggest changes with a pull request or something
 
-local repo = 'https://raw.githubusercontent.com/FatherJustice/UI-Lib-RP/refs/heads/main/Lin-UI-Lib'
+local repo = 'https://raw.githubusercontent.com/FatherJustice/UI-Lib-RP/refs/heads/main/Example.lua?token=GHSAT0AAAAAAC5RCMDFIM4RDXRNJDTCZ3BGZ4RD3HA'
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
